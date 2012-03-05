@@ -3,3 +3,8 @@ C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\RepositoryModel.dll
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\RepositoryModel.pdb
+C:\src\ShoppingCart\RepositoryModel\bin\Debug\RepositoryModel.dll
+C:\src\ShoppingCart\RepositoryModel\bin\Debug\RepositoryModel.pdb
+C:\src\ShoppingCart\RepositoryModel\obj\Debug\ResolveAssemblyReference.cache
+C:\src\ShoppingCart\RepositoryModel\obj\Debug\RepositoryModel.dll
+C:\src\ShoppingCart\RepositoryModel\obj\Debug\RepositoryModel.pdb

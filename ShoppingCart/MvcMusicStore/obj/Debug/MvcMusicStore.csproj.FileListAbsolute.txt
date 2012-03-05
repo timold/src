@@ -40,3 +40,17 @@ C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\StructureMap.xml
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\RepositoryModel.dll
 C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\RepositoryModel.pdb
+C:\src\ShoppingCart\MvcMusicStore\bin\MvcMusicStore.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\src\ShoppingCart\MvcMusicStore\bin\EntityFramework.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\RepositoryModel.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\StructureMap.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\WebActivator.dll
+C:\src\ShoppingCart\MvcMusicStore\bin\RepositoryModel.pdb
+C:\src\ShoppingCart\MvcMusicStore\bin\EntityFramework.xml
+C:\src\ShoppingCart\MvcMusicStore\bin\StructureMap.pdb
+C:\src\ShoppingCart\MvcMusicStore\bin\StructureMap.xml
+C:\src\ShoppingCart\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\src\ShoppingCart\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\src\ShoppingCart\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
