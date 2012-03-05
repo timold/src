@@ -1,5 +1,0 @@
-C:\src\Pro ASP.NET MVC 3 Framework\03 - First MVC App\2. A Data Entry Application\PartyInvites\bin\PartyInvites.dll
-C:\src\Pro ASP.NET MVC 3 Framework\03 - First MVC App\2. A Data Entry Application\PartyInvites\bin\PartyInvites.pdb
-C:\src\Pro ASP.NET MVC 3 Framework\03 - First MVC App\2. A Data Entry Application\PartyInvites\obj\Debug\ResolveAssemblyReference.cache
-C:\src\Pro ASP.NET MVC 3 Framework\03 - First MVC App\2. A Data Entry Application\PartyInvites\obj\Debug\PartyInvites.dll
-C:\src\Pro ASP.NET MVC 3 Framework\03 - First MVC App\2. A Data Entry Application\PartyInvites\obj\Debug\PartyInvites.pdb
