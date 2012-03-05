@@ -1,0 +1,42 @@
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\StructureMap.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\WebActivator.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\StructureMap.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\StructureMap.xml
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\RepositoryModel.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\RepositoryModel.pdb

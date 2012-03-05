@@ -1,0 +1,7 @@
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\bin\Debug\Real.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\bin\Debug\Real.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\bin\Debug\Interfaces.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\bin\Debug\Interfaces.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\obj\Debug\Real.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\Real\obj\Debug\Real.pdb

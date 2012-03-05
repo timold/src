@@ -1,0 +1,24 @@
+﻿@model  IEnumerable<MvcMusicStore.Models.Album>
+
+@{
+    ViewBag.Title = "SearchStdPost";
+}
+
+<h2>Results</h2>
+
+<table>
+    <tr>
+        <td>Artist</td>
+        <td>Title</td>
+        <td>Price</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.Artist</td>
+        <td>@item.Title</td>
+        <td>@String.Format("{0:c}", item.Price)</td>
+    </tr>
+    }
+</table>

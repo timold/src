@@ -1,0 +1,5 @@
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\bin\Debug\RepositoryModel.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\bin\Debug\RepositoryModel.pdb
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\RepositoryModel.dll
+C:\Users\laptop01\Documents\Working Documents\Technical Skills\MvcMusicStore-v3.0 - Copy\MvcMusicStore-v3.0\MvcMusicStore-Completed\RepositoryModel\obj\Debug\RepositoryModel.pdb

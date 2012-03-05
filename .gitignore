@@ -1,0 +1,11 @@
+
+ShoppingCart/_ReSharper.MvcMusicStore
+ShoppingCart/EntityFramework/obj
+ShoppingCart/MvcMusicStore.Tests/bin
+ShoppingCart/Interfaces/obj
+ShoppingCart/Mock/bin
+ShoppingCart/Mock/obj
+ShoppingCart/MockFramework/bin
+ShoppingCart/MockFramework/obj
+ShoppingCart/Interfaces/bin
+ShoppingCart/MvcMusicStore.Tests/obj

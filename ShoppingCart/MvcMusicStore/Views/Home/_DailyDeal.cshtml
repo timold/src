@@ -1,0 +1,21 @@
+﻿@model MvcMusicStore.Models.Album
+
+<p>
+   <img alt="@Model.Title" src="@Model.AlbumArtUrl" />
+</p>
+
+<div id="album-details">
+    <p>The Daily Deal</p>
+    <p>
+        <em>Artist:</em>
+        @Model.Artist.Name
+    </p>
+    <p>
+        <em>Price</em>
+        @Model.Price
+    </p>
+    <p class="button">
+        @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = Model.AlbumId }, "")
+    </p>
+
+</div>
